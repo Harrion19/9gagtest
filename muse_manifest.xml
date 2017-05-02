@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="9GAG.com" resolutions="1x" timestamp="1493740574252">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="9GAG.com" resolutions="1x" timestamp="1493742575498">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="41300742" ref="index"/>
@@ -57,18 +57,6 @@
       <caption webpage="trending" alt=""/>
     </file>
     <file name="artwork 1_poster_.png" crc="4290497216" ref="phone>index"/>
-    <file name="pasted image 460x779.jpg" crc="4148007297" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted image 460x536.jpg" crc="4095152967" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted image 460x645.jpg" crc="3789886697" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted image 460x838.jpg" crc="58044687" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="1501173954458851651_146058036.jpg" crc="62382225" seo="true" ref="phone>trending">
       <caption webpage="trending" alt=""/>
     </file>
@@ -84,13 +72,25 @@
     <file name="pasted image 700x1179.jpg" crc="147718730" seo="true" ref="phone>trending">
       <caption webpage="trending" alt=""/>
     </file>
+    <file name="pasted image 460x779-crop-u670.jpg" crc="4242026692" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 460x536-crop-u850.jpg" crc="58388095" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 460x645-crop-u1380.jpg" crc="440881108" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 460x838-crop-u1361.jpg" crc="264719635" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3855282663" ref="phone>index"/>
+      <file name="index.css" crc="407786261" ref="phone>index"/>
       <file name="trending.css" crc="4215162599" ref="phone>trending"/>
     </folder>
-    <file name="index.html" crc="4057874267" seo="true" mt="1493177673029" redirect="true"/>
+    <file name="index.html" crc="3976704622" seo="true" mt="1493742532551" redirect="true"/>
     <file name="trending.html" crc="3858534135" seo="true" mt="1493177687528" redirect="true"/>
   </folder>
   <file name="index.html" crc="3768426092" seo="true" mt="1493740560052" redirect="true"/>
